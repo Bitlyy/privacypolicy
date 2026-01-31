@@ -8,37 +8,39 @@ By using the Service, the User provides unconditional consent to this Policy and
 Are not cryptocurrencies, electronic money, or securities.
 Have no equivalent monetary value in the real world.
 Cannot be exchanged for fiat currency (USD, EUR, etc.) or other material values by the Administration.
-1.3. Closed Ecosystem. The Service does not provide any technical means to withdraw virtual funds to external wallets, bank accounts, or third-party platforms. Transfers are restricted to the internal Service environment.
+1.3. Closed Ecosystem. The Service does not provide any technical means to withdraw virtual funds to external wallets, bank accounts, or third-party platforms. Transfers and trades are strictly restricted to the internal Service environment.
 2. Data Collection and Processing
 We collect the minimum amount of data necessary to identify the User and save their game progress.
-2.1. User Data
-Data automatically received from the Telegram platform (via Public API):
+2.1. User Data. Data automatically received from the Telegram platform (via Public API):
 Unique Identifier (User ID).
 First and Last Name (as provided in the Telegram profile).
 Username (@username).
 Profile picture (Avatar).
-2.2. Service Activity Data
-Data generated during the use of the Service:
+2.2. Service Activity Data. Data generated during the use of the Service:
 Virtual currency balance (BLYX).
 Transaction and trade history.
 Virtual portfolio holdings.
-User-generated content (token names, uploaded images, descriptions).
-2.3. Data Storage and Processing
-To ensure the reliability and availability of the Service, we utilize cloud infrastructure provided by Google LLC. Your data is processed and stored on secure Google servers in an encrypted format linked to your Telegram ID.
+User-generated content (token names, ticker symbols, uploaded images, and descriptions).
+2.3. Data Storage and Processing. To ensure the reliability and availability of the Service, we utilize cloud infrastructure provided by Google LLC. Your data is processed and stored on secure Google servers in an encrypted format linked to your Telegram ID.
 3. Payments and Telegram Stars
-3.1. Payment Mechanism. The Service allows Users to acquire virtual items using Telegram Stars.
-3.2. Technical Role. Our technical infrastructure (including the Vercel-based backend) acts solely as a technical bridge (gateway) that generates an invoice request for Telegram.
-3.3. Payment Processing. The actual payment processing, fund deduction, and transaction security are handled entirely by the Telegram platform. The Service does not receive, process, or store credit card data or any other sensitive payment credentials.
+3.1. Payment Mechanism. The Service allows Users to acquire virtual items and top up balances using Telegram Stars.
+3.2. Technical Role. Our technical infrastructure (including the Vercel-based backend) acts solely as a technical bridge (gateway) that processes internal requests and generates invoice requests for the Telegram platform.
+3.3. Payment Processing. The actual payment processing, fund deduction, and transaction security are handled entirely by the Telegram platform. The Service does not receive, process, or store credit card data, bank details, or any other sensitive payment credentials.
 3.4. No Refunds. Acquisitions of Telegram Stars and their subsequent exchange for in-app assets (BLYX) are final. Due to the nature of digital content provided instantly upon purchase, no refunds are permitted.
 4. Limitation of Liability and External Agreements
 4.1. No Buy-Back Policy. The Service Administration under no circumstances performs a "buy-back" of virtual currency or tokens from Users for real-world money.
 4.2. Outside Agreements. The Service is intended for internal interaction only. The Administration is not responsible for any agreements, trades, or exchanges (including the sale of accounts or virtual currency) made by Users outside the official interface of the Application (e.g., via private messages, third-party groups, or external marketplaces).
-4.3. User Risks. Any attempt by Users to monetize game progress outside the Service is done at their own risk. We do not accept claims related to fraud or losses resulting from such third-party dealings.
+4.3. User Risks. Any attempt by Users to monetize game progress or trade assets outside the Service is done at their own risk. We do not accept claims related to fraud, scams, or losses resulting from such third-party dealings.
 5. User Content and Moderation
-5.1. When creating tokens, the User agrees not to use images or text that violate copyrights, contain violence, pornography, or illegal materials.
-5.2. The Administration reserves the right to delete any content and block access to the Service for violating these rules without prior notice. Upon blocking, all virtual assets are forfeited.
+5.1. Responsibility. When creating tokens, the User agrees not to use images or text that violate copyrights, contain violence, pornography, or any illegal materials.
+5.2. Enforcement. The Administration reserves the right to delete any content and block access to the Service for violating these rules without prior notice. Upon blocking, all virtual assets associated with the account are forfeited.
 6. Disclaimer of Warranties
-The Service is provided on an "as is" and "as available" basis. We do not guarantee error-free or uninterrupted operation of the Service. We are not liable for temporary loss of access or failures caused by third-party providers (hosting services, Telegram platform).
-7. Contact Information
+The Service is provided on an "as is" and "as available" basis. We do not guarantee error-free or uninterrupted operation of the Service. We are not liable for temporary loss of access, data loss, or failures caused by third-party providers (Vercel, Google, or the Telegram platform).
+7. Amendments and Unilateral Modifications
+7.1. Right to Amend. The Administration reserves the right to modify, update, or completely change these Terms, as well as in-app mechanics, fees, and virtual economy rules, at any time and at its sole discretion.
+7.2. No Notification Obligation. The Administration is not required to provide individual or specific notice to Users regarding changes to this Policy. Users are expected to review this document periodically.
+7.3. Acceptance. Continued use of the Service following any changes constitutes the User’s full acceptance of the revised Terms.
+7.4. Waiver of Claims. The User waives any right to hold the Administration liable or seek compensation for changes in game rules, asset values, or terms of service.
+8. Contact Information
 For questions regarding the Service, technical issues, or privacy concerns, please contact us through the official support channels within Telegram.
-By using the Bitly application, you confirm that you have read this Policy, understand the nature of the virtual assets, and accept the absence of financial liabilities on the part of the Administration.
+By using the Bitly application, you confirm that you have read this Policy, understand the nature of the virtual assets, and accept the absence of financial liabilities on the part of the Administration, as well as the Administration's right to modify these terms without prior notice.
