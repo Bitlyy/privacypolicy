@@ -1,79 +1,44 @@
-Политика конфиденциальности и Условия использования сервиса «Bitly»
-
-Дата вступления в силу: 31 января 2026 г.
-
-Настоящий документ (далее — «Политика») регулирует порядок сбора, обработки и защиты данных пользователей (далее — «Пользователь») в приложении «Bitly» (далее — «Сервис», «Приложение»), функционирующем на платформе Telegram Mini Apps.
-
-Использование Сервиса означает безоговорочное согласие Пользователя с настоящей Политикой и указанными условиями.
-
-1. Статус Сервиса и Виртуальных Активов
-
-1.1. Игровая симуляция. Сервис является развлекательным симулятором рынка. Все упоминания «токенов», «монет», «акций», валюты «BLYX» и иных активов внутри Приложения относятся исключительно к виртуальным внутриигровым объектам.
-1.2. Отсутствие реальной стоимости. Виртуальные активы внутри Сервиса:
-
-Не являются криптовалютой, электронными денежными средствами или ценными бумагами.
-
-Не имеют денежного эквивалента в реальном мире.
-
-Не могут быть обменены на фиатные деньги (рубли, доллары и т.д.) или иные материальные ценности со стороны Администрации.
-1.3. Замкнутая система. Функционал Сервиса не предусматривает технической возможности вывода виртуальных средств на внешние кошельки, банковские счета или сторонние платформы.
-
-2. Сбор и Обработка данных
-
-Мы собираем минимальный объем данных, необходимый для идентификации Пользователя и сохранения его игрового прогресса.
-
-2.1. Данные Пользователя
-
-Автоматически получаемые данные от платформы Telegram (на основании публичного API):
-
-Уникальный идентификатор (User ID).
-
-Имя и Фамилия, указанные в профиле.
-
-Имя пользователя (@username).
-
-Изображение профиля (аватар).
-
-2.2. Игровые данные
-
-Данные, генерируемые в процессе использования Сервиса:
-
-Баланс виртуальной валюты.
-
-История транзакций и торговых операций.
-
-Содержание виртуального портфеля.
-
-Созданный Пользователем контент (названия токенов, загруженные изображения, описания).
-
-2.3. Хранение данных
-
-Для обеспечения надежности и доступности Сервиса мы используем облачную инфраструктуру, предоставляемую компанией Google LLC. Ваши данные обрабатываются и хранятся на защищенных серверах Google в обезличенном виде, привязанном к вашему Telegram ID.
-
-3. Платежи и Telegram Stars
-
-3.1. Механизм оплаты. Сервис предоставляет возможность приобретения виртуальных товаров за Telegram Stars.
-3.2. Роль Сервиса. Наша техническая инфраструктура (включая серверную часть на Vercel) выступает исключительно в качестве связующего звена (шлюза), формирующего запрос на создание счета.
-3.3. Обработка платежей. Непосредственная обработка платежа, списание средств и безопасность транзакции осуществляются на стороне платформы Telegram. Сервис не получает, не обрабатывает и не хранит данные банковских карт или платежных реквизитов Пользователя.
-3.4. Отсутствие возврата. Приобретение Telegram Stars и их последующий обмен на внутриигровые ценности (BLYX) является окончательным. В силу природы цифрового контента, который потребляется в момент начисления на баланс, возврат средств не производится.
-
-4. Ограничение ответственности и Внешние сделки
-
-4.1. Отказ от обратного выкупа. Администрация Сервиса ни при каких обстоятельствах не осуществляет обратный выкуп виртуальной валюты или токенов у Пользователей за реальные деньги.
-4.2. Сделки вне приложения. Сервис предназначен исключительно для внутренних взаимодействий. Администрация не несет ответственности за любые договоренности, сделки или обмены (включая продажу аккаунтов или виртуальной валюты), совершенные Пользователями вне интерфейса Приложения (например, в личных сообщениях, сторонних чатах или на биржах).
-4.3. Риски. Любые попытки Пользователей монетизировать игровые достижения вне Сервиса осуществляются ими на свой страх и риск. Мы не рассматриваем претензии, связанные с мошенничеством третьих лиц при подобных сделках.
-
-5. Пользовательский контент и Модерация
-
-5.1. При создании собственных токенов (launch.html) Пользователь обязуется не использовать изображения и тексты, нарушающие авторские права, содержащие призывы к насилию, порнографию или экстремистские материалы.
-5.2. Администрация оставляет за собой право без предупреждения удалять любой контент и блокировать доступ к Сервису за нарушение данных правил. При блокировке виртуальные активы аннулируются.
-
-6. Отказ от гарантий
-
-Сервис предоставляется по принципу «как есть» (as is). Мы не гарантируем безошибочную и бесперебойную работу Сервиса, хотя и предпринимаем все разумные усилия для этого. Мы не несем ответственности за временную потерю доступа к Сервису или сбои, вызванные действиями третьих лиц (хостинг-провайдеров, платформы Telegram).
-
-7. Контактная информация
-
-По вопросам работы Сервиса, техническим проблемам или вопросам конфиденциальности вы можете связаться с нами через официальные каналы поддержки внутри Telegram.
-
-Используя приложение Bitly, вы подтверждаете, что ознакомились с данной Политикой, понимаете природу виртуальных активов и принимаете условия отсутствия финансовых обязательств со стороны Администрации.
+Privacy Policy and Terms of Service for "Bitly"
+Effective Date: January 31, 2026
+This document (hereinafter the "Policy") governs the collection, processing, and protection of user data (hereinafter the "User") within the "Bitly" application (hereinafter the "Service", "App"), operating as a Telegram Mini App.
+By using the Service, the User provides unconditional consent to this Policy and the terms stated herein.
+1. Status of the Service and Virtual Assets
+1.1. Entertainment Simulation. The Service is an entertainment market simulator. All mentions of "tokens," "coins," "stocks," and the "BLYX" currency within the Application refer exclusively to virtual in-app items.
+1.2. No Real-World Value. Virtual assets within the Service:
+Are not cryptocurrencies, electronic money, or securities.
+Have no equivalent monetary value in the real world.
+Cannot be exchanged for fiat currency (USD, EUR, etc.) or other material values by the Administration.
+1.3. Closed Ecosystem. The Service does not provide any technical means to withdraw virtual funds to external wallets, bank accounts, or third-party platforms. Transfers are restricted to the internal Service environment.
+2. Data Collection and Processing
+We collect the minimum amount of data necessary to identify the User and save their game progress.
+2.1. User Data
+Data automatically received from the Telegram platform (via Public API):
+Unique Identifier (User ID).
+First and Last Name (as provided in the Telegram profile).
+Username (@username).
+Profile picture (Avatar).
+2.2. Service Activity Data
+Data generated during the use of the Service:
+Virtual currency balance (BLYX).
+Transaction and trade history.
+Virtual portfolio holdings.
+User-generated content (token names, uploaded images, descriptions).
+2.3. Data Storage and Processing
+To ensure the reliability and availability of the Service, we utilize cloud infrastructure provided by Google LLC. Your data is processed and stored on secure Google servers in an encrypted format linked to your Telegram ID.
+3. Payments and Telegram Stars
+3.1. Payment Mechanism. The Service allows Users to acquire virtual items using Telegram Stars.
+3.2. Technical Role. Our technical infrastructure (including the Vercel-based backend) acts solely as a technical bridge (gateway) that generates an invoice request for Telegram.
+3.3. Payment Processing. The actual payment processing, fund deduction, and transaction security are handled entirely by the Telegram platform. The Service does not receive, process, or store credit card data or any other sensitive payment credentials.
+3.4. No Refunds. Acquisitions of Telegram Stars and their subsequent exchange for in-app assets (BLYX) are final. Due to the nature of digital content provided instantly upon purchase, no refunds are permitted.
+4. Limitation of Liability and External Agreements
+4.1. No Buy-Back Policy. The Service Administration under no circumstances performs a "buy-back" of virtual currency or tokens from Users for real-world money.
+4.2. Outside Agreements. The Service is intended for internal interaction only. The Administration is not responsible for any agreements, trades, or exchanges (including the sale of accounts or virtual currency) made by Users outside the official interface of the Application (e.g., via private messages, third-party groups, or external marketplaces).
+4.3. User Risks. Any attempt by Users to monetize game progress outside the Service is done at their own risk. We do not accept claims related to fraud or losses resulting from such third-party dealings.
+5. User Content and Moderation
+5.1. When creating tokens, the User agrees not to use images or text that violate copyrights, contain violence, pornography, or illegal materials.
+5.2. The Administration reserves the right to delete any content and block access to the Service for violating these rules without prior notice. Upon blocking, all virtual assets are forfeited.
+6. Disclaimer of Warranties
+The Service is provided on an "as is" and "as available" basis. We do not guarantee error-free or uninterrupted operation of the Service. We are not liable for temporary loss of access or failures caused by third-party providers (hosting services, Telegram platform).
+7. Contact Information
+For questions regarding the Service, technical issues, or privacy concerns, please contact us through the official support channels within Telegram.
+By using the Bitly application, you confirm that you have read this Policy, understand the nature of the virtual assets, and accept the absence of financial liabilities on the part of the Administration.
