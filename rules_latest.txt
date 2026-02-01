@@ -38,6 +38,10 @@ The User accepts the AI’s automated decisions as final.
 7.1. "As Is" Basis. The Service is provided on an "as is" and "as available" basis. We do not guarantee error-free or uninterrupted operation.
 7.2. Third-Party Failures. The Administration is not liable for data loss or service failures caused by third-party providers (Vercel, Google, or the Telegram platform).
 7.3. No Buy-Back. The Administration under no circumstances performs a "buy-back" of virtual tokens or currency for real-world money.
-8. Contact Information
+8. Age Restrictions & Eligibility
+8.1. Minimum Age. The Service is intended solely for users who are eighteen (18) years of age or older. By using the Service, you represent and warrant that you are at least 18 years old.
+8.2. Verification. The Administration does not intentionally collect data from minors. If we become aware that a user under 18 is using the Service, we reserve the right to terminate their account and delete all associated data immediately without any refund of virtual assets.
+8.3. Parental Responsibility. If you are a parent or guardian and discover that your child is using the Service, you are responsible for their actions and any simulated financial decisions they make within the App.
+9. Contact Information
 For technical issues or reporting vulnerabilities, please contact the official support channels within the Telegram application.
 By clicking "Continue" or using the Blyxly application, you confirm that you understand this is a game with NO FINANCIAL VALUE and that you accept the Administration's right to modify the Service and its rules at any time without prior notice.
