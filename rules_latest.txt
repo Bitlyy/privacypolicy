@@ -1,46 +1,43 @@
-Privacy Policy and Terms of Service for "Bitly"
-Effective Date: January 31, 2026
-This document (hereinafter the "Policy") governs the collection, processing, and protection of user data (hereinafter the "User") within the "Bitly" application (hereinafter the "Service", "App"), operating as a Telegram Mini App.
-By using the Service, the User provides unconditional consent to this Policy and the terms stated herein.
+Privacy Policy and Terms of Service for "Blyxly"
+Effective Date: February 1, 2026
+This document (hereinafter the "Policy") is a legally binding agreement between the Administration of the Blyxly Telegram Mini App (hereinafter the "Service", "App") and the individual using the Service (hereinafter the "User"). By accessing and using the Service, the User confirms their full and unconditional acceptance of these terms.
 1. Status of the Service and Virtual Assets
-1.1. Entertainment Simulation. The Service is an entertainment market simulator. All mentions of "tokens," "coins," "stocks," and the "BLYX" currency within the Application refer exclusively to virtual in-app items.
+1.1. Entertainment Simulation. The Service is a social gaming platform and market simulator. All assets within the App, including "tokens," "coins," "portfolio positions," and the "BLYX" currency, are strictly virtual in-app items (game points).
 1.2. No Real-World Value. Virtual assets within the Service:
 Are not cryptocurrencies, electronic money, or securities.
 Have no equivalent monetary value in the real world.
-Cannot be exchanged for fiat currency (USD, EUR, etc.) or other material values by the Administration.
-1.3. Closed Ecosystem. The Service does not provide any technical means to withdraw virtual funds to external wallets, bank accounts, or third-party platforms. Transfers and trades are strictly restricted to the internal Service environment.
-2. Data Collection and Processing
-We collect the minimum amount of data necessary to identify the User and save their game progress.
-2.1. User Data. Data automatically received from the Telegram platform (via Public API):
-Unique Identifier (User ID).
-First and Last Name (as provided in the Telegram profile).
-Username (@username).
-Profile picture (Avatar).
-2.2. Service Activity Data. Data generated during the use of the Service:
-Virtual currency balance (BLYX).
-Transaction and trade history.
-Virtual portfolio holdings.
-User-generated content (token names, ticker symbols, uploaded images, and descriptions).
-2.3. Data Storage and Processing. To ensure the reliability and availability of the Service, we utilize cloud infrastructure provided by Google LLC. Your data is processed and stored on secure Google servers in an encrypted format linked to your Telegram ID.
-3. Payments and Telegram Stars
-3.1. Payment Mechanism. The Service allows Users to acquire virtual items and top up balances using Telegram Stars.
-3.2. Technical Role. Our technical infrastructure (including the Vercel-based backend) acts solely as a technical bridge (gateway) that processes internal requests and generates invoice requests for the Telegram platform.
-3.3. Payment Processing. The actual payment processing, fund deduction, and transaction security are handled entirely by the Telegram platform. The Service does not receive, process, or store credit card data, bank details, or any other sensitive payment credentials.
-3.4. No Refunds. Acquisitions of Telegram Stars and their subsequent exchange for in-app assets (BLYX) are final. Due to the nature of digital content provided instantly upon purchase, no refunds are permitted.
-4. Limitation of Liability and External Agreements
-4.1. No Buy-Back Policy. The Service Administration under no circumstances performs a "buy-back" of virtual currency or tokens from Users for real-world money.
-4.2. Outside Agreements. The Service is intended for internal interaction only. The Administration is not responsible for any agreements, trades, or exchanges (including the sale of accounts or virtual currency) made by Users outside the official interface of the Application (e.g., via private messages, third-party groups, or external marketplaces).
-4.3. User Risks. Any attempt by Users to monetize game progress or trade assets outside the Service is done at their own risk. We do not accept claims related to fraud, scams, or losses resulting from such third-party dealings.
-5. User Content and Moderation
-5.1. Responsibility. When creating tokens, the User agrees not to use images or text that violate copyrights, contain violence, pornography, or any illegal materials.
-5.2. Enforcement. The Administration reserves the right to delete any content and block access to the Service for violating these rules without prior notice. Upon blocking, all virtual assets associated with the account are forfeited.
-6. Disclaimer of Warranties
-The Service is provided on an "as is" and "as available" basis. We do not guarantee error-free or uninterrupted operation of the Service. We are not liable for temporary loss of access, data loss, or failures caused by third-party providers (Vercel, Google, or the Telegram platform).
-7. Amendments and Unilateral Modifications
-7.1. Right to Amend. The Administration reserves the right to modify, update, or completely change these Terms, as well as in-app mechanics, fees, and virtual economy rules, at any time and at its sole discretion.
-7.2. No Notification Obligation. The Administration is not required to provide individual or specific notice to Users regarding changes to this Policy. Users are expected to review this document periodically.
-7.3. Acceptance. Continued use of the Service following any changes constitutes the User’s full acceptance of the revised Terms.
-7.4. Waiver of Claims. The User waives any right to hold the Administration liable or seek compensation for changes in game rules, asset values, or terms of service.
+Cannot be exchanged for fiat currency (USD, EUR, etc.) or any material values by the Administration.
+1.3. Closed Ecosystem. The Service does not provide any technical means to withdraw virtual funds to external wallets, bank accounts, or third-party platforms. All trades and transfers are recorded only within the Service's internal database.
+2. Token Creation, AI Moderation, and Reporting
+2.1. Launching Tokens. The Service allows Users to launch virtual tokens for a simulated bonding curve. This action requires a non-refundable virtual fee of 200 BLYX.
+2.2. User Responsibility. The User is solely responsible for all content (names, tickers, descriptions, and images) uploaded during the token creation process.
+2.3. AI-Powered Verification. All user-generated content is subject to mandatory automated screening by Artificial Intelligence (AI) algorithms.
+The AI may reject content that contains violence, pornography, hate speech, or obvious copyright infringement.
+The User accepts the AI’s automated decisions as final.
+2.4. Report System. The Service includes a "Report" functionality. The Administration reserves the right to review reported tokens and may delete content or block Users who violate community standards or third-party intellectual property (e.g., unauthorized use of trademarks) without prior notice.
+3. P2P Market and External Trade Prohibition (RMT Ban)
+3.1. Internal P2P Mechanics. Users may transfer BLYX and trade virtual tokens within the App interface. Each BLYX transfer is subject to a 5% virtual service fee, deducted automatically.
+3.2. Ban on Real-Money Trading (RMT). It is strictly prohibited to buy, sell, or trade BLYX currency, tokens, or accounts for real-world money or assets on external platforms (e.g., third-party marketplaces, chat groups, or forums).
+3.3. Disclaimer for Outside Agreements. The Administration is not liable for any agreements or scams occurring outside the official App interface. Users engaging in external trades do so at their own risk.
+3.4. Sanctions. Any attempt to monetize game progress or assets outside the Service will result in a permanent ban and forfeiture of all virtual assets without the right to appeal.
+4. Payments and Telegram Stars
+4.1. Technical Gateway. The Service uses a Vercel-based backend as a technical bridge to generate payment invoices.
+4.2. Payment Processing. All actual financial transactions, fund deductions, and security are handled exclusively by the Telegram platform. The Service does not receive or store credit card data or banking details.
+4.3. No Refunds. All acquisitions of BLYX via Telegram Stars are final. Due to the nature of digital content provided instantly upon purchase, no refunds are permitted, even in the event of account termination for policy violations.
+5. Unilateral Modifications and Waiver of Claims
+5.1. Right to Amend. The Administration reserves the right to modify, update, or completely change any part of the Service, including game mechanics, tokenomics, bonding curve parameters, fees, and these Terms, at any time and at its sole discretion.
+5.2. No Notification Obligation. The Administration is not required to provide individual or specific notice to Users regarding changes. Users are expected to review this document periodically.
+5.3. Acceptance by Continued Use. Continued use of the Service following any changes constitutes the User’s full acceptance of the revised Terms and mechanics.
+5.4. Waiver of Claims. The User waives any right to hold the Administration liable or seek compensation for changes in game rules, asset values, or modifications to the virtual economy.
+6. Data Collection and Privacy
+6.1. Collected Data. We process: Telegram User ID, First/Last Name, Username (@username), and Profile Picture.
+6.2. Purpose. This data is used solely for User identification, P2P search functionality, and leaderboards.
+6.3. Storage. Data is processed and stored in an encrypted format on secure servers provided by Google LLC (Firebase/Cloud).
+6.4. Public Display. By using the Service, the User consents to their @username and trade statistics being visible to other Users within the simulation.
+7. Limitation of Liability
+7.1. "As Is" Basis. The Service is provided on an "as is" and "as available" basis. We do not guarantee error-free or uninterrupted operation.
+7.2. Third-Party Failures. The Administration is not liable for data loss or service failures caused by third-party providers (Vercel, Google, or the Telegram platform).
+7.3. No Buy-Back. The Administration under no circumstances performs a "buy-back" of virtual tokens or currency for real-world money.
 8. Contact Information
-For questions regarding the Service, technical issues, or privacy concerns, please contact us through the official support channels within Telegram.
-By using the Bitly application, you confirm that you have read this Policy, understand the nature of the virtual assets, and accept the absence of financial liabilities on the part of the Administration, as well as the Administration's right to modify these terms without prior notice.
+For technical issues or reporting vulnerabilities, please contact the official support channels within the Telegram application.
+By clicking "Continue" or using the Blyxly application, you confirm that you understand this is a game with NO FINANCIAL VALUE and that you accept the Administration's right to modify the Service and its rules at any time without prior notice.
